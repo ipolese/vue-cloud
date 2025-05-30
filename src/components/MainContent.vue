@@ -114,8 +114,6 @@ export default {
 .profile-picture {
   max-width: 350px; /* Ajuste o tamanho da foto de perfil */
   height: auto;
-  border-radius: 50%; /* Foto redonda */
-  border: 3px solid #DEDEDE; /* Borda clara na foto */
 }
 
 /* About and Contact Sections */
