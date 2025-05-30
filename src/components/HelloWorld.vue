@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>Igor Polese</h1>
-    <p>Engenheiro de Software</p>
+    <p>35 anos, Tech Lead</p>
   </div>
 </template>
 
